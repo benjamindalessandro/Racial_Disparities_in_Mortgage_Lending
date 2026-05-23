@@ -1,2 +1,2 @@
-# Racial_Disparities_in_Mortgage_Lending
+# Racial Disparities in Mortgage Lending
 Extended the Federal Reserve Bank of Boston’s 1996 analysis of racial disparities in mortgage lending using the 2023 public HMDA extract for the Boston MSA. Used Stata 19.0 to estimate a series of logistic regression models. Despite data limitations, results suggested that racial disparities persist across specifications even after controlling for income, loan-to-value ratio, debt-to-income ratio, and minority status. Additional specifications incorporated a more granular racial classification, lender fixed effects, a high-income subsample, neighborhood characteristics, and automated underwriting system usage.
